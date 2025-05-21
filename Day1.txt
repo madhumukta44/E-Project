@@ -1,0 +1,4 @@
+hello there!
+this is me learning git and GitHub . 
+thank you! 
+   :)
